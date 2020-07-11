@@ -1,2 +1,2 @@
 # testowe repo
-Teks
+Tekst
